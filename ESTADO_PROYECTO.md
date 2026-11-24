@@ -20,3 +20,4 @@ Colección de recursos para ST-Link V2 **clones** (esquemáticos y firmware). In
 - Fuente firmware: https://github.com/mike-pittelko/stlink-v2-repair-and-toolkit
 - ST-Link base: `STLinkV2.J16.S4.bin` @ `0x08000000`, luego upgrade con STSW-LINK007.
 - Repo Origin: `matias-pompolo/stlink-clones`
+- Mirror GitHub: https://github.com/Matiasefe/StlinkV2
