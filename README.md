@@ -38,3 +38,7 @@ Detalle completo en [`firmware/README.md`](firmware/README.md).
 ## Aviso
 
 `STLinkV2.J16.S4.bin` es firmware propietario de ST redistribuido por el toolkit de referencia. Uso personal / recuperación.
+
+## Esquemáticos del clon aluminio
+
+Ver [`schematics/`](schematics/README.md). Incluye el reverse de CuVoodoo del dongle USB-A con carcasa de aluminio (el de la foto ST-LINK V2 / STM8 & STM32).
